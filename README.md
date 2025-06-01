@@ -1,7 +1,5 @@
-## Hi there 👋
 
-<!--
-# Hi, I'm Khushbu Singh 👋
+## Hi, I'm Khushbu Singh 👋
 
 🎓 MCA Graduate from IGDTUW  
 💡 Passionate about AI, ML, MERN stack, DSA, and building innovative tech solutions  
@@ -26,12 +24,7 @@
 
 ## 📫 How to reach me
 - 💼 [LinkedIn](https://www.linkedin.com/in/khushbu-singh-63001120b/)
-- 💻 [Portfolio](https://your-portfolio.com)
 - 📧 Email: khushbusingh.9700@gmail.com
 
 ## ⚡ Fun fact
 Ctrl + Z is my best friend. We've been through a lot together.
-
-
-
--->
