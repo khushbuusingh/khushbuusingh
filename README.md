@@ -1,16 +1,37 @@
 ## Hi there 👋
 
 <!--
-**khushbuusingh/khushbuusingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Khushbu Singh 👋
 
-Here are some ideas to get you started:
+🎓 MCA Graduate from IGDTUW  
+💡 Passionate about AI, ML, MERN stack, DSA, and building innovative tech solutions  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 👯 I’m looking to collaborate on
+- AI/ML research projects  
+- Innovative web apps solving real-world problems  
+- Hackathons and open source initiatives  
+
+## 💬 Ask me about
+- Python, Java, ML model building 
+- Full-stack project architecture  
+- Hackathon experiences and how to stand out  
+
+## 🛠 Tech Stack
+- **Languages:** Python, JavaScript, C++, HTML, CSS, java 
+- **Frameworks & Libraries:** Node.js, Express.js, React.js  
+- **Databases:** MongoDB  
+- **Tools & Platforms:** Git, GitHub, Figma, VS Code, Google Colab, Postman  
+- **Machine Learning:** Scikit-learn, TensorFlow, OpenCV  
+- **Other:** REST APIs,Tailwind CSS
+
+## 📫 How to reach me
+- 💼 [LinkedIn](https://www.linkedin.com/in/khushbu-singh-63001120b/)
+- 💻 [Portfolio](https://your-portfolio.com)
+- 📧 Email: khushbusingh.9700@gmail.com
+
+## ⚡ Fun fact
+Ctrl + Z is my best friend. We've been through a lot together.
+
+
+
 -->
